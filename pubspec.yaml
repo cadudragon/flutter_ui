@@ -38,7 +38,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   - cadudragon.jpg
+   - assets/images/cadudragon.jpg
+   - assets/images/stacked_hearts.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -55,13 +56,14 @@ flutter:
   fonts:
       - family: Montserrat
         fonts:
-          - asset: assets/Montserrat-SemiBold.ttf
-          - asset: assets/Montserrat-SemiBoldItalic.ttf
+          - asset: assets/fonts/montserrat/Montserrat-SemiBold.ttf
+          - asset: assets/fonts/montserrat/Montserrat-SemiBoldItalic.ttf
             style: italic
       - family: Quicksand
         fonts:
-          - asset: assets/Quicksand-Medium.ttf
-          - asset: assets/Quicksand-Bold.ttf
+          - asset: assets/fonts/quicksand/Quicksand-Medium.ttf
+          - asset: assets/fonts/quicksand/Quicksand-Bold.ttf
             weight: 700
+  
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
