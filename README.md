@@ -9,5 +9,5 @@ The apps are slowly being updated to Dart 2; be sure to use the __--preview-dart
 
 <p align="center">
  1. __GET COACHING__: A GridView with Profile Cards <br>
-![Alt Text](https://gfycat.com/FriendlyAdvancedAfricanporcupine)
+<iframe src='https://gfycat.com/ifr/FriendlyAdvancedAfricanporcupine' frameborder='0' scrolling='no' allowfullscreen width='640' height='1182'></iframe>
 </p>
