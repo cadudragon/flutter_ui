@@ -5,4 +5,9 @@ The apps are slowly being updated to Dart 2; be sure to use the __--preview-dart
 
 ## Apps
 
-1. __GET COACHING__: A GridView with Profile Cards
+
+
+<p align="center">
+ 1. __GET COACHING__: A GridView with Profile Cards <br>
+![Alt Text](https://gfycat.com/FriendlyAdvancedAfricanporcupine)
+</p>
